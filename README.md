@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**WalterCarr-create/WalterCarr-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **WalterCarr-create**, a open-source maintainer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- 🌟 Open source enthusiast
+- 🔭 Currently working on personal side projects
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`Linux` `Rails` `Elixir` `Sinatra`
+
+---
+
+_Prs > issues._
